@@ -1,0 +1,6 @@
+cluster_name,cluster_year,n_civilisations,n_stressors,alignment_score,max_severity,stressor_types,stressor_names
+Bronze Age (~2140 BCE),-2140,2,1,1.0,severe,climate,4.2 Kiloyear Event
+Late Bronze Age (~1110 BCE),-1110,4,3,0.75,catastrophic,climate|migration|systemic_collapse,Late Bronze Age Drought|Sea Peoples Migrations|Bronze Age Collapse
+Hellenistic (~263 BCE),-263,7,1,0.429,beneficial,climate,Roman Climate Optimum
+Late Antique (~793 CE),793,12,2,0.5,catastrophic,climate|pandemic,Late Antique Little Ice Age|Justinianic Plague
+Modern (~1915 CE),1915,29,5,0.655,catastrophic,climate|pandemic|war,Little Ice Age|Year Without a Summer|Spanish Flu|World War I|World War II

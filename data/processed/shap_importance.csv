@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+rise_duration_years,2.0480326400524396
+peak_plateau_years,0.7671412026040317
+n_stressors_during_collapse,0.3767211793036556
+trigger_conquest,0.3682982576767966
+has_any_catastrophic,0.24316508065005138
+territory_per_capita,0.21222136613768358
+founding_era_numeric,0.2013574211199462
+log_peak_population,0.17371467793068104
+trigger_fragmentation,0.12014248283886197
+log_peak_territory,0.1041853101506958
+was_conquered,0.06650390367287508
+n_pressuring_empires,0.0308154961526238
+n_contemporary_rivals,0.026148577469359908
+trigger_climate,0.016395445943473568
+trigger_overextension,0.005558364490355276

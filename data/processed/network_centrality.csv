@@ -1,0 +1,113 @@
+name,in_degree,out_degree,pagerank,betweenness,region,trigger,lifespan
+Empire of Japan,5,2,0.030180750982453305,0.003931203931203931,East Asia,overextension,79
+Goryeo,4,1,0.028902099357638013,0.007371007371007371,East Asia,fragmentation,474
+Spanish Empire,5,3,0.028586457318472716,0.017444717444717445,Europe,fragmentation,406
+Kushan Empire,2,1,0.02741585211573962,0.0038493038493038496,South Asia,conquest,345
+Roman Empire,6,7,0.026995461506024127,0.0533988533988534,Europe,overextension,503
+Gupta Empire,2,1,0.026702700912744178,8.19000819000819e-05,South Asia,migration,230
+Silla,1,2,0.026411198193354316,0.0034398034398034397,East Asia,fragmentation,992
+Inca Empire,2,2,0.02221143507480473,0.00475020475020475,Americas,conquest,95
+Seleucid Empire,4,2,0.02157004247484409,0.029852579852579855,Middle East,fragmentation,249
+French Colonial Empire,3,3,0.020623996321217766,0.011056511056511056,Europe,fragmentation,446
+Koguryo,2,1,0.020275246031815318,0.0011466011466011467,East Asia,conquest,705
+Dai Viet,3,2,0.020142664740663323,0.019000819000819,South Asia,fragmentation,836
+Kingdom of Aksum,2,1,0.019755542805060946,0.0038493038493038496,Africa,economic,840
+Liao Dynasty,3,2,0.019712876249389423,0.049713349713349717,East Asia,conquest,218
+Tokugawa Shogunate,1,1,0.01894742513367073,0.0,East Asia,fragmentation,265
+Kingdom of Kush,1,1,0.018631467385828163,0.0,Africa,conquest,1420
+Srivijaya Empire,2,1,0.017946126822989406,8.19000819000819e-05,South Asia,economic,625
+Parthian Empire,3,2,0.01770014437838763,0.026453726453726456,Middle East,conquest,471
+Mixtec Empire,2,1,0.017357748783045815,0.0,Americas,conquest,621
+Majapahit,1,1,0.01711337618776818,0.0,South Asia,fragmentation,234
+Champa,2,1,0.016657928587204145,0.0012285012285012285,South Asia,conquest,1640
+Buganda,2,1,0.016536975407410084,0.0,Africa,conquest,666
+Chimu Empire,1,1,0.014431519377845956,0.0,Americas,conquest,570
+Achaemenid Persian Empire,2,2,0.013966407366775383,0.009746109746109746,Middle East,conquest,220
+Mughal Empire,4,3,0.013756879406767716,0.08304668304668304,South Asia,fragmentation,331
+Aztec Empire,3,2,0.013081858785932007,0.0006552006552006552,Americas,conquest,176
+Russian Empire and USSR,4,8,0.013018362484304111,0.04234234234234235,Europe,fragmentation,444
+Balhae,1,1,0.013017900631007847,0.0,East Asia,conquest,228
+Zhou Dynasty,2,2,0.01246562091549466,0.006633906633906634,East Asia,fragmentation,790
+Akkadian Empire,1,1,0.012301614226847666,0.0,Middle East,climate,180
+Sumerian City-States,1,1,0.012301614226847666,0.0,Middle East,conquest,996
+Sassanid Empire,3,4,0.011787128858848446,0.10364455364455365,Middle East,conquest,427
+Macedonian Empire,1,3,0.01124938852616583,0.019000819000819,Europe,fragmentation,35
+British Empire,5,15,0.011212851612100316,0.10425880425880427,Europe,fragmentation,414
+Classical Greece,3,1,0.011063279192205079,0.016625716625716627,Europe,conquest,654
+Neo-Babylonian Empire,1,1,0.009759881599096907,0.0,Middle East,conquest,87
+Delhi Sultanate,3,1,0.009719283102756006,0.007084357084357084,South Asia,fragmentation,320
+Han Dynasty,2,2,0.00952600154462125,0.02547092547092547,East Asia,fragmentation,426
+Timurid Empire,4,3,0.009464681724287539,0.0766994266994267,Central Asia,fragmentation,137
+Polish-Lithuanian Commonwealth,2,2,0.009433097815688941,0.009746109746109746,Europe,fragmentation,226
+Austro-Hungarian Empire,2,0,0.008993808803349497,0.0,Europe,fragmentation,51
+Shang Dynasty,1,1,0.008910171013806817,0.0,East Asia,conquest,554
+Umayyad Caliphate,3,4,0.008518182126321293,0.09533169533169533,Middle East,fragmentation,89
+Kanem-Bornu Empire,2,0,0.008324599559722048,0.0,Africa,conquest,1200
+Khmer Empire,1,2,0.007996319160069777,0.0009828009828009828,South Asia,climate,629
+Jin Empire,2,2,0.007930458742124318,0.05421785421785422,East Asia,conquest,119
+Wadai Empire,1,1,0.007689203143907755,0.0,Africa,conquest,411
+Dahomey,1,1,0.007689203143907755,0.0,Africa,conquest,304
+Xiongnu Confederation,1,1,0.007243911566138411,0.0,Central Asia,fragmentation,302
+Ayutthaya,2,1,0.007236307899245009,0.004422604422604423,South Asia,conquest,416
+Teutonic Knights,1,1,0.0071908129610506865,0.0,Europe,conquest,295
+Mongol Empire,3,14,0.007041903882088089,0.13587223587223587,Central Asia,fragmentation,162
+Golden Horde,3,1,0.006788218431632633,0.021703521703521703,Central Asia,fragmentation,260
+German Empire and Third Reich,3,1,0.006674106837895159,0.0009828009828009828,Europe,overextension,74
+Vijayanagara Empire,1,0,0.006522764122335994,0.0,South Asia,conquest,310
+Mali Empire,1,0,0.006460361463465758,0.0,Africa,fragmentation,435
+Ming Dynasty,2,2,0.006421188036945297,0.011466011466011467,East Asia,fragmentation,276
+Almoravid Dynasty,1,2,0.006324784605283251,0.0004914004914004914,Africa,conquest,107
+Tang Dynasty,2,2,0.006113171586039722,0.03734643734643735,East Asia,fragmentation,289
+Ottoman Empire,4,4,0.006049258085255539,0.09586404586404587,Middle East,fragmentation,623
+Carthage,1,1,0.005669834092471878,0.0,Africa,conquest,668
+Ptolemaic Kingdom,1,1,0.005669834092471878,0.0,Africa,conquest,275
+Ethiopian Empire,3,3,0.005529374313192265,0.007862407862407862,Africa,fragmentation,704
+Ghana Empire,1,1,0.005429403349964405,0.0003276003276003276,Africa,conquest,540
+Qin Dynasty,1,2,0.0053777553417961015,0.01294021294021294,East Asia,fragmentation,15
+Funj Sultanate,2,0,0.0052938822634246,0.0,Africa,conquest,317
+Almohad Caliphate,2,1,0.005269904478421962,0.0004914004914004914,Africa,fragmentation,148
+Chagatai Khanate,1,1,0.005063358399328801,0.0,Central Asia,fragmentation,121
+Byzantine Empire,2,2,0.0050430715473797705,0.08214578214578215,Europe,conquest,1123
+Kingdom of France,1,3,0.004801546692481976,0.0011466011466011467,Europe,fragmentation,805
+Napoleonic Empire,3,3,0.004772443306313195,0.008026208026208027,Europe,overextension,11
+Republic of Venice,2,0,0.004483026088044724,0.0,Europe,conquest,1100
+Qing Dynasty,2,1,0.004300088322473818,0.005978705978705979,East Asia,fragmentation,268
+Adal Sultanate,2,0,0.0041174727873662335,0.0,Africa,conquest,162
+Song Dynasty,2,2,0.004076201161734835,0.044226044226044224,East Asia,conquest,319
+Visigothic Kingdom,1,1,0.003914081648107926,0.0,Europe,conquest,303
+Angevin Empire,1,1,0.0034778726383324536,0.0,Europe,fragmentation,60
+Classic Maya,1,0,0.0034138856378632086,0.0,Americas,climate,650
+Abbasid Caliphate,2,2,0.0033785492506743587,0.08845208845208845,Middle East,conquest,508
+Yuan Dynasty,2,2,0.003249710938519333,0.008517608517608518,East Asia,fragmentation,97
+Holy Roman Empire,1,1,0.0031975414217935844,0.0004914004914004914,Europe,fragmentation,844
+Ghaznavid Emirate,1,1,0.0031736989114210037,0.0011056511056511057,Middle East,conquest,209
+Safavid Empire,1,0,0.0031308243360365267,0.0,Middle East,conquest,235
+Maratha Empire,1,2,0.0024807360855996813,0.0,South Asia,conquest,144
+Asante Empire,1,1,0.0024807360855996813,0.0,Africa,conquest,201
+Kingdom of Benin,1,1,0.0024807360855996813,0.0,Africa,conquest,717
+Sokoto Caliphate,1,1,0.0024807360855996813,0.0,Africa,conquest,99
+Italian Colonial Empire,1,1,0.0024807360855996813,0.0,Europe,conquest,65
+Seljuk Empire,1,2,0.0023441782615130895,0.008763308763308764,Middle East,fragmentation,157
+Xixia,1,1,0.0023441782615130895,0.0,East Asia,conquest,189
+Pagan Empire,1,1,0.0023441782615130895,0.007698607698607699,South Asia,conquest,448
+Kievan Rus,1,1,0.0023441782615130895,0.0,Europe,conquest,358
+Mutapa Empire,1,0,0.0022374761618048425,0.0,Africa,economic,330
+Kilwa Sultanate,1,0,0.0022374761618048425,0.0,Africa,conquest,613
+Kingdom of Kongo,1,0,0.0022374761618048425,0.0,Africa,fragmentation,524
+Ilkhanate,1,1,0.0020947589656492385,0.0,Middle East,fragmentation,79
+Chola Dynasty,0,1,0.0018453396697853874,0.0,South Asia,fragmentation,431
+Indus Valley Civilisation,0,0,0.0018453396697853874,0.0,South Asia,climate,1100
+Portuguese Empire,0,4,0.0018453396697853874,0.0,Europe,fragmentation,584
+Carolingian Empire,0,1,0.0018453396697853874,0.0,Europe,fragmentation,88
+Teotihuacan,0,1,0.0018453396697853874,0.0,Americas,fragmentation,850
+Maurya Empire,0,1,0.0018453396697853874,0.0,South Asia,fragmentation,137
+Ancient Egypt - New Kingdom,0,1,0.0018453396697853874,0.0,Africa,fragmentation,481
+Hittite Empire,0,0,0.0018453396697853874,0.0,Middle East,migration,470
+Yamato,0,1,0.0018453396697853874,0.0,East Asia,fragmentation,460
+Sui Dynasty,0,1,0.0018453396697853874,0.0,East Asia,fragmentation,37
+Mycenaean Greece,0,1,0.0018453396697853874,0.0,Europe,migration,500
+Fatimid Caliphate,0,0,0.0018453396697853874,0.0,Middle East,conquest,262
+Kalmar Union,0,0,0.0018453396697853874,0.0,Europe,fragmentation,126
+Great Moravia,0,0,0.0018453396697853874,0.0,Europe,conquest,77
+Toltec Empire,0,1,0.0018453396697853874,0.0,Americas,climate,350
+Olmec,0,1,0.0018453396697853874,0.0,Americas,climate,1100

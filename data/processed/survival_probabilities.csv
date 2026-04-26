@@ -1,0 +1,113 @@
+civilisation_id,name,region,lifespan_years,target_long_lived,survival_probability,predicted_long_lived,primary_collapse_trigger,founding_era
+1,Sumerian City-States,Middle East,996,1,0.9977991959272865,1,conquest,Bronze Age
+2,Akkadian Empire,Middle East,180,0,0.29985765144295745,0,climate,Bronze Age
+3,Neo-Babylonian Empire,Middle East,87,0,0.04154781377103014,0,conquest,Classical
+4,Achaemenid Persian Empire,Middle East,220,0,0.15421149211328325,0,conquest,Classical
+5,Sassanid Empire,Middle East,427,1,0.8290026662751468,1,conquest,Classical
+6,Ancient Egypt - New Kingdom,Africa,481,1,0.9353322650180745,1,fragmentation,Bronze Age
+7,Classical Greece,Europe,654,1,0.895462617012372,1,conquest,Classical
+8,Macedonian Empire,Europe,35,0,0.0482693561387552,0,fragmentation,Classical
+9,Roman Empire,Europe,503,1,0.8357129450000824,1,overextension,Classical
+10,Byzantine Empire,Europe,1123,1,0.9966229407301957,1,conquest,Classical
+11,Parthian Empire,Middle East,471,1,0.6962535686366976,1,conquest,Classical
+12,Umayyad Caliphate,Middle East,89,0,0.05869235470121023,0,fragmentation,Medieval
+13,Abbasid Caliphate,Middle East,508,1,0.5977181782245036,1,conquest,Medieval
+14,Ottoman Empire,Middle East,623,1,0.9807477737231778,1,fragmentation,Medieval
+15,Maurya Empire,South Asia,137,0,0.1947280627826824,0,fragmentation,Classical
+16,Gupta Empire,South Asia,230,0,0.30752257189468885,0,migration,Classical
+17,Mughal Empire,South Asia,331,1,0.3229092987390672,0,fragmentation,Early Modern
+18,Qin Dynasty,East Asia,15,0,0.04642032151010381,0,fragmentation,Classical
+19,Han Dynasty,East Asia,426,1,0.8301653648213382,1,fragmentation,Classical
+20,Tang Dynasty,East Asia,289,0,0.33440298085297687,0,fragmentation,Medieval
+21,Song Dynasty,East Asia,319,0,0.2875476163863115,0,conquest,Medieval
+22,Yuan Dynasty,East Asia,97,0,0.09071031864173165,0,fragmentation,Medieval
+23,Ming Dynasty,East Asia,276,0,0.4132608625807534,0,fragmentation,Medieval
+24,Qing Dynasty,East Asia,268,0,0.27424243283922195,0,fragmentation,Early Modern
+25,Mongol Empire,Central Asia,162,0,0.13005635957041878,0,fragmentation,Medieval
+26,Timurid Empire,Central Asia,137,0,0.07576014744106312,0,fragmentation,Medieval
+27,Kingdom of Kush,Africa,1420,1,0.9998454614447148,1,conquest,Classical
+28,Kingdom of Aksum,Africa,840,1,0.9586986474060112,1,economic,Classical
+29,Mali Empire,Africa,435,1,0.3558047447061663,0,fragmentation,Medieval
+30,Classic Maya,Americas,650,1,0.9876690057500983,1,climate,Classical
+31,Teotihuacan,Americas,850,1,0.9975821140433221,1,fragmentation,Classical
+32,Aztec Empire,Americas,176,0,0.19623060730777897,0,conquest,Medieval
+33,Inca Empire,Americas,95,0,0.08119275398270148,0,conquest,Medieval
+34,Carolingian Empire,Europe,88,0,0.04759730841208127,0,fragmentation,Medieval
+35,Holy Roman Empire,Europe,844,1,0.9801396390528901,1,fragmentation,Medieval
+36,Spanish Empire,Europe,406,1,0.6703202710913876,1,fragmentation,Medieval
+37,Napoleonic Empire,Europe,11,0,0.06322901371762309,0,overextension,Industrial
+38,Austro-Hungarian Empire,Europe,51,0,0.04039734065069857,0,fragmentation,Industrial
+39,German Empire and Third Reich,Europe,74,0,0.04626787336063732,0,overextension,Industrial
+40,Italian Colonial Empire,Europe,65,0,0.018778591227919233,0,conquest,Industrial
+41,Empire of Japan,East Asia,79,0,0.04922038997631974,0,overextension,Industrial
+42,French Colonial Empire,Europe,446,1,0.842142065740237,1,fragmentation,Early Modern
+43,British Empire,Europe,414,1,0.7174301348808472,1,fragmentation,Early Modern
+44,Russian Empire and USSR,Europe,444,1,0.8654555090278012,1,fragmentation,Early Modern
+45,Portuguese Empire,Europe,584,1,0.8504266262656223,1,fragmentation,Medieval
+46,Indus Valley Civilisation,South Asia,1100,1,0.9984349347237377,1,climate,Bronze Age
+47,Kushan Empire,South Asia,345,1,0.4188903205231182,0,conquest,Classical
+48,Chola Dynasty,South Asia,431,1,0.6909844120659119,1,fragmentation,Medieval
+49,Delhi Sultanate,South Asia,320,0,0.26058151931061424,0,fragmentation,Medieval
+50,Vijayanagara Empire,South Asia,310,0,0.3864057480394686,0,conquest,Medieval
+51,Maratha Empire,South Asia,144,0,0.08729676197418079,0,conquest,Early Modern
+52,Ghana Empire,Africa,540,1,0.7194907676745884,1,conquest,Medieval
+53,Kanem-Bornu Empire,Africa,1200,1,0.9999693863278896,1,conquest,Medieval
+54,Kingdom of Kongo,Africa,524,1,0.7344346730622965,1,fragmentation,Medieval
+55,Mutapa Empire,Africa,330,1,0.42079949037783604,0,economic,Medieval
+56,Ethiopian Empire,Africa,704,1,0.9942058341287692,1,fragmentation,Medieval
+57,Sokoto Caliphate,Africa,99,0,0.02622897239061408,0,conquest,Industrial
+58,Kingdom of Benin,Africa,717,1,0.9692224657004104,1,conquest,Medieval
+59,Kilwa Sultanate,Africa,613,1,0.9668602624492615,1,conquest,Medieval
+60,Asante Empire,Africa,201,0,0.11202665698925308,0,conquest,Early Modern
+61,Hittite Empire,Middle East,470,1,0.9788561056559009,1,migration,Bronze Age
+62,Mycenaean Greece,Europe,500,1,0.9332494917601188,1,migration,Bronze Age
+63,Carthage,Africa,668,1,0.991691849521961,1,conquest,Classical
+64,Seleucid Empire,Middle East,249,0,0.31048036887773495,0,fragmentation,Classical
+65,Shang Dynasty,East Asia,554,1,0.8946455476153756,1,conquest,Bronze Age
+66,Zhou Dynasty,East Asia,790,1,0.9119229090261401,1,fragmentation,Classical
+67,Sui Dynasty,East Asia,37,0,0.0692547315877128,0,fragmentation,Medieval
+68,Khmer Empire,South Asia,629,1,0.9706062271757774,1,climate,Medieval
+69,Srivijaya Empire,South Asia,625,1,0.9361381683702381,1,economic,Medieval
+70,Kievan Rus,Europe,358,1,0.39853593197773535,0,conquest,Medieval
+71,Kingdom of France,Europe,805,1,0.9992591635587773,1,fragmentation,Medieval
+72,Republic of Venice,Europe,1100,1,0.9997423241437935,1,conquest,Medieval
+73,Xiongnu Confederation,Central Asia,302,0,0.020237718124371595,0,fragmentation,Classical
+74,Golden Horde,Central Asia,260,0,0.11205354759208387,0,fragmentation,Medieval
+75,Goryeo,East Asia,474,1,0.8255351609836494,1,fragmentation,Medieval
+76,Silla,East Asia,992,1,0.9997799234677841,1,fragmentation,Classical
+77,Koguryo,East Asia,705,1,0.9902977213639115,1,conquest,Classical
+78,Balhae,East Asia,228,0,0.15997478818079905,0,conquest,Medieval
+79,Yamato,East Asia,460,1,0.9057597861135687,1,fragmentation,Classical
+80,Tokugawa Shogunate,East Asia,265,0,0.2035664557130753,0,fragmentation,Early Modern
+81,Liao Dynasty,East Asia,218,0,0.11298273050308077,0,conquest,Medieval
+82,Jin Empire,East Asia,119,0,0.062312220302645854,0,conquest,Medieval
+83,Xixia,East Asia,189,0,0.12891899860565853,0,conquest,Medieval
+84,Pagan Empire,South Asia,448,1,0.7706561731374489,1,conquest,Medieval
+85,Ayutthaya,South Asia,416,1,0.7513247333655881,1,conquest,Medieval
+86,Champa,South Asia,1640,1,0.999990859646637,1,conquest,Classical
+87,Dai Viet,South Asia,836,1,0.998211791617019,1,fragmentation,Medieval
+88,Majapahit,South Asia,234,0,0.15695275939878955,0,fragmentation,Medieval
+89,Ilkhanate,Middle East,79,0,0.09159918534190835,0,fragmentation,Medieval
+90,Safavid Empire,Middle East,235,0,0.18344267432869715,0,conquest,Early Modern
+91,Fatimid Caliphate,Middle East,262,0,0.171968521650339,0,conquest,Medieval
+92,Seljuk Empire,Middle East,157,0,0.11899878113144391,0,fragmentation,Medieval
+93,Chagatai Khanate,Central Asia,121,0,0.0772947956990962,0,fragmentation,Medieval
+94,Ghaznavid Emirate,Middle East,209,0,0.07985112807061674,0,conquest,Medieval
+95,Almohad Caliphate,Africa,148,0,0.12212970720678142,0,fragmentation,Medieval
+96,Almoravid Dynasty,Africa,107,0,0.0656329796288144,0,conquest,Medieval
+97,Ptolemaic Kingdom,Africa,275,0,0.23468383246383598,0,conquest,Classical
+98,Visigothic Kingdom,Europe,303,0,0.37207523265529463,0,conquest,Classical
+99,Angevin Empire,Europe,60,0,0.07257970610814242,0,fragmentation,Medieval
+100,Great Moravia,Europe,77,0,0.0358491470256998,0,conquest,Medieval
+101,Polish-Lithuanian Commonwealth,Europe,226,0,0.20614503975392434,0,fragmentation,Early Modern
+102,Teutonic Knights,Europe,295,0,0.23429448052563392,0,conquest,Medieval
+103,Kalmar Union,Europe,126,0,0.13287574910845765,0,fragmentation,Medieval
+104,Dahomey,Africa,304,0,0.282951537367046,0,conquest,Early Modern
+105,Buganda,Africa,666,1,0.9863766544363276,1,conquest,Medieval
+106,Funj Sultanate,Africa,317,0,0.3508053102602043,0,conquest,Early Modern
+107,Adal Sultanate,Africa,162,0,0.09042779139494855,0,conquest,Medieval
+108,Wadai Empire,Africa,411,1,0.6162943302247106,1,conquest,Early Modern
+109,Chimu Empire,Americas,570,1,0.9709643306682886,1,conquest,Medieval
+110,Toltec Empire,Americas,350,1,0.7261132423556399,1,climate,Medieval
+111,Olmec,Americas,1100,1,0.9998563568000628,1,climate,Bronze Age
+112,Mixtec Empire,Americas,621,1,0.9512623999134954,1,conquest,Medieval

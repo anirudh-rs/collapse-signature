@@ -1,0 +1,125 @@
+{
+  "pillar1_p_value": 0.0,
+  "pillar1_z_score": 6.65,
+  "pillar1_observed_score": 2.0291,
+  "pillar1_n_clusters": 5,
+  "pillar2_global_morans_i": 0.348,
+  "pillar2_global_p_value": 0.003,
+  "pillar2_interpretation": "dispersed_systemic",
+  "cluster_coverage_pct": 60,
+  "pillar3_mean_alignment_score": 0.667,
+  "pillar3_clusters_fully_covered": 1,
+  "pillar3_clusters_with_catastrophic": 3,
+  "pillar3_pct_civs_with_stressor": 1.889,
+  "pillar4_n_nodes": 112,
+  "pillar4_n_edges": 187,
+  "pillar4_conquest_edges": 1,
+  "pillar4_pressure_edges": 106,
+  "pillar4_succession_edges": 80,
+  "pillar4_network_density": 0.015,
+  "pillar4_top_pagerank": [
+    "Empire of Japan",
+    "Goryeo",
+    "Spanish Empire"
+  ],
+  "pillar4_top_predators": [
+    "British Empire",
+    "Mongol Empire",
+    "Russian Empire and USSR"
+  ],
+  "pillar4_top_targets": [
+    "Roman Empire",
+    "Empire of Japan",
+    "Spanish Empire"
+  ],
+  "pillar4_longest_chain_length": 7,
+  "pillar4_longest_chain": [
+    "Neo-Babylonian Empire",
+    "Achaemenid Persian Empire",
+    "Seleucid Empire",
+    "Parthian Empire",
+    "Sassanid Empire",
+    "Umayyad Caliphate",
+    "Abbasid Caliphate"
+  ],
+  "pillar5_loo_accuracy": 0.92,
+  "pillar5_loo_auc": NaN,
+  "pillar5_top_features": [
+    "rise_duration_years",
+    "peak_plateau_years",
+    "n_stressors_during_collapse",
+    "trigger_conquest",
+    "has_any_catastrophic"
+  ],
+  "pillar5_scenario_rome_survival_change": 0.155,
+  "pillar5_scenario_aztec_survival_change": -0.058,
+  "pillar5_scenario_ussr_survival_change": -0.006,
+  "pillar5_all_scenarios": [
+    {
+      "id": 1,
+      "name": "Rome + Byzantine durability",
+      "base": 0.74,
+      "modified": 0.944,
+      "change": 0.204
+    },
+    {
+      "id": 2,
+      "name": "Aztec without pandemic",
+      "base": 0.228,
+      "modified": 0.211,
+      "change": -0.017
+    },
+    {
+      "id": 3,
+      "name": "USSR without Cold War",
+      "base": 0.909,
+      "modified": 0.734,
+      "change": -0.176
+    },
+    {
+      "id": 4,
+      "name": "Mongols + Ming administration",
+      "base": 0.144,
+      "modified": 0.209,
+      "change": 0.065
+    },
+    {
+      "id": 5,
+      "name": "Byzantine with 1 rival",
+      "base": 0.989,
+      "modified": 0.96,
+      "change": -0.029
+    },
+    {
+      "id": 6,
+      "name": "Napoleon with Rome rise speed",
+      "base": 0.114,
+      "modified": 0.376,
+      "change": 0.262
+    },
+    {
+      "id": 7,
+      "name": "Qin with Han patience",
+      "base": 0.065,
+      "modified": 0.682,
+      "change": 0.618
+    },
+    {
+      "id": 8,
+      "name": "Mali with fewer stressors",
+      "base": 0.428,
+      "modified": 0.404,
+      "change": -0.024
+    },
+    {
+      "id": 9,
+      "name": "Napoleon as Byzantine",
+      "base": 0.114,
+      "modified": 0.98,
+      "change": 0.866
+    }
+  ],
+  "pillar5_n_scenarios": 9,
+  "pillar5_largest_jump": 0.866,
+  "pillar5_largest_jump_scenario": "Napoleon as Byzantine"
+}

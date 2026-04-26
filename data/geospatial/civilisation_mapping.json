@@ -1,0 +1,1081 @@
+{
+  "Sumerian City-States": [
+    [
+      "city-states",
+      -3100,
+      -2200
+    ],
+    [
+      "Ur",
+      -3100,
+      -2200
+    ]
+  ],
+  "Akkadian Empire": [
+    [
+      "city-states",
+      -2334,
+      -2154
+    ],
+    [
+      "Ur",
+      -2334,
+      -2154
+    ]
+  ],
+  "Neo-Babylonian Empire": [
+    [
+      "Babylonia",
+      -626,
+      -539
+    ]
+  ],
+  "Achaemenid Persian Empire": [
+    [
+      "Achaemenid Empire",
+      -550,
+      -330
+    ]
+  ],
+  "Sassanid Empire": [
+    [
+      "Sasanian Empire",
+      224,
+      651
+    ],
+    [
+      "Sasanian dependencies",
+      224,
+      651
+    ]
+  ],
+  "Ancient Egypt - New Kingdom": [
+    [
+      "Egypt",
+      -1550,
+      -1069
+    ]
+  ],
+  "Classical Greece": [
+    [
+      "Greek city-states",
+      -800,
+      -146
+    ],
+    [
+      "Greece",
+      -800,
+      -146
+    ]
+  ],
+  "Macedonian Empire": [
+    [
+      "Empire of Alexander",
+      -336,
+      -301
+    ],
+    [
+      "Macedon and Hellenic League",
+      -336,
+      -301
+    ]
+  ],
+  "Roman Empire": [
+    [
+      "Roman Empire",
+      -27,
+      476
+    ],
+    [
+      "Rome",
+      -27,
+      100
+    ],
+    [
+      "Western Roman Empire",
+      285,
+      476
+    ]
+  ],
+  "Byzantine Empire": [
+    [
+      "Byzantine Empire",
+      330,
+      1453
+    ],
+    [
+      "Eastern Roman Empire",
+      330,
+      476
+    ]
+  ],
+  "Parthian Empire": [
+    [
+      "Parthian Empire",
+      -247,
+      224
+    ],
+    [
+      "Parthia",
+      -247,
+      100
+    ]
+  ],
+  "Umayyad Caliphate": [
+    [
+      "Umayyad Caliphate",
+      661,
+      750
+    ]
+  ],
+  "Abbasid Caliphate": [
+    [
+      "Abbasid Caliphate",
+      750,
+      1258
+    ]
+  ],
+  "Ottoman Empire": [
+    [
+      "Ottoman Empire",
+      1299,
+      1922
+    ],
+    [
+      "Ottoman Sultanate",
+      1908,
+      1922
+    ]
+  ],
+  "Maurya Empire": [
+    [
+      "Mauryan Empire",
+      -322,
+      -185
+    ]
+  ],
+  "Gupta Empire": [
+    [
+      "Gupta Empire",
+      320,
+      550
+    ]
+  ],
+  "Mughal Empire": [
+    [
+      "Mughal Empire",
+      1526,
+      1857
+    ]
+  ],
+  "Qin Dynasty": [
+    [
+      "Qin",
+      -221,
+      -206
+    ]
+  ],
+  "Han Dynasty": [
+    [
+      "Han",
+      -206,
+      220
+    ],
+    [
+      "Han Empire",
+      -206,
+      1
+    ]
+  ],
+  "Tang Dynasty": [
+    [
+      "Tang Empire",
+      618,
+      907
+    ]
+  ],
+  "Song Dynasty": [
+    [
+      "Song Empire",
+      960,
+      1279
+    ]
+  ],
+  "Yuan Dynasty": [
+    [
+      "Mongol Empire",
+      1271,
+      1368
+    ]
+  ],
+  "Ming Dynasty": [
+    [
+      "Ming Chinese Empire",
+      1368,
+      1644
+    ],
+    [
+      "Ming Empire",
+      1368,
+      1644
+    ]
+  ],
+  "Qing Dynasty": [
+    [
+      "Qing Empire",
+      1644,
+      1912
+    ],
+    [
+      "Manchu Empire",
+      1644,
+      1912
+    ]
+  ],
+  "Mongol Empire": [
+    [
+      "Mongol Empire",
+      1206,
+      1260
+    ]
+  ],
+  "Timurid Empire": [
+    [
+      "Timurid Empire",
+      1370,
+      1507
+    ],
+    [
+      "Timurid Emirates",
+      1370,
+      1507
+    ]
+  ],
+  "Kingdom of Kush": [
+    [
+      "Kush",
+      -1070,
+      -400
+    ],
+    [
+      "Meroe",
+      -300,
+      350
+    ]
+  ],
+  "Kingdom of Aksum": [
+    [
+      "Axum",
+      100,
+      940
+    ]
+  ],
+  "Mali Empire": [
+    [
+      "Mali",
+      1235,
+      1670
+    ]
+  ],
+  "Classic Maya": [
+    [
+      "Maya chiefdoms and states",
+      250,
+      900
+    ],
+    [
+      "Maya city-states",
+      250,
+      900
+    ]
+  ],
+  "Teotihuacan": [
+    [
+      "Teotihuac\u00e1n",
+      -100,
+      750
+    ],
+    [
+      "Teotihuac\u00e0n",
+      -100,
+      750
+    ]
+  ],
+  "Aztec Empire": [
+    [
+      "Aztec Empire",
+      1345,
+      1521
+    ],
+    [
+      "Mexihcah (Triple Alliance)",
+      1345,
+      1521
+    ]
+  ],
+  "Inca Empire": [
+    [
+      "Inca Empire",
+      1438,
+      1533
+    ]
+  ],
+  "Carolingian Empire": [
+    [
+      "Carolingian Empire",
+      800,
+      888
+    ],
+    [
+      "Frankish Kingdom",
+      750,
+      800
+    ]
+  ],
+  "Holy Roman Empire": [
+    [
+      "Holy Roman Empire",
+      962,
+      1806
+    ]
+  ],
+  "Spanish Empire": [
+    [
+      "Spain",
+      1492,
+      1898
+    ],
+    [
+      "Vice Royalty of New Spain",
+      1492,
+      1821
+    ],
+    [
+      "Vice-Royalty of Peru",
+      1492,
+      1824
+    ]
+  ],
+  "Napoleonic Empire": [
+    [
+      "France",
+      1804,
+      1815
+    ]
+  ],
+  "Austro-Hungarian Empire": [
+    [
+      "Austro-Hungarian Empire",
+      1867,
+      1918
+    ],
+    [
+      "Austria Hungary",
+      1867,
+      1918
+    ],
+    [
+      "Austrian Empire",
+      1816,
+      1866
+    ]
+  ],
+  "German Empire and Third Reich": [
+    [
+      "German Empire",
+      1871,
+      1918
+    ],
+    [
+      "Germany",
+      1871,
+      1945
+    ]
+  ],
+  "Italian Colonial Empire": [
+    [
+      "Italy",
+      1882,
+      1947
+    ]
+  ],
+  "Empire of Japan": [
+    [
+      "Empire of Japan",
+      1868,
+      1947
+    ],
+    [
+      "Imperial Japan",
+      1868,
+      1947
+    ]
+  ],
+  "French Colonial Empire": [
+    [
+      "France",
+      1534,
+      1804
+    ],
+    [
+      "France",
+      1815,
+      1962
+    ],
+    [
+      "French Indo-China",
+      1858,
+      1954
+    ],
+    [
+      "French West Africa",
+      1890,
+      1960
+    ],
+    [
+      "French Equatorial Africa",
+      1910,
+      1960
+    ]
+  ],
+  "British Empire": [
+    [
+      "United Kingdom of Great Britain and Ireland",
+      1801,
+      1922
+    ],
+    [
+      "United Kingdom",
+      1922,
+      1997
+    ],
+    [
+      "British Raj",
+      1858,
+      1947
+    ],
+    [
+      "British East Africa",
+      1895,
+      1963
+    ]
+  ],
+  "Russian Empire and USSR": [
+    [
+      "Russian Empire",
+      1547,
+      1917
+    ],
+    [
+      "USSR",
+      1922,
+      1991
+    ]
+  ],
+  "Portuguese Empire": [
+    [
+      "Portugal",
+      1415,
+      1999
+    ]
+  ],
+  "Hittite Empire": [
+    [
+      "Hittites",
+      -1650,
+      -1180
+    ]
+  ],
+  "Mycenaean Greece": [
+    [
+      "Greek city-states",
+      -1600,
+      -1100
+    ]
+  ],
+  "Carthage": [
+    [
+      "Carthaginian Empire",
+      -814,
+      -146
+    ],
+    [
+      "Carthage",
+      -814,
+      -146
+    ]
+  ],
+  "Seleucid Empire": [
+    [
+      "Seleucid Kingdom",
+      -312,
+      -63
+    ]
+  ],
+  "Lydian Kingdom": [],
+  "Shang Dynasty": [
+    [
+      "Xia",
+      -1600,
+      -1046
+    ]
+  ],
+  "Zhou Dynasty": [
+    [
+      "Zhou states",
+      -500,
+      -256
+    ],
+    [
+      "Zhoa",
+      -1046,
+      -700
+    ]
+  ],
+  "Sui Dynasty": [
+    [
+      "Sui Empire",
+      581,
+      618
+    ]
+  ],
+  "Khmer Empire": [
+    [
+      "Khmer Empire",
+      802,
+      1431
+    ]
+  ],
+  "Srivijaya Empire": [
+    [
+      "Srivijaya Empire",
+      650,
+      1275
+    ]
+  ],
+  "Vijayanagara Empire": [
+    [
+      "Vijayanagara",
+      1336,
+      1646
+    ]
+  ],
+  "Songhai Empire": [
+    [
+      "Songhai",
+      1464,
+      1591
+    ]
+  ],
+  "Great Zimbabwe": [
+    [
+      "Great Zimbabwe",
+      1100,
+      1450
+    ]
+  ],
+  "Xiongnu Confederation": [
+    [
+      "Xiongnu",
+      -209,
+      50
+    ],
+    [
+      "Southern Xiongnu",
+      0,
+      93
+    ]
+  ],
+  "Golden Horde": [
+    [
+      "Golden Horde",
+      1242,
+      1502
+    ],
+    [
+      "Khanate of the Golden Horde",
+      1242,
+      1502
+    ]
+  ],
+  "Kievan Rus": [
+    [
+      "Kievan Rus",
+      882,
+      1240
+    ],
+    [
+      "Kyivan Rus",
+      882,
+      1240
+    ]
+  ],
+  "Kingdom of France": [
+    [
+      "Kingdom of France",
+      987,
+      1300
+    ],
+    [
+      "France",
+      1300,
+      1804
+    ]
+  ],
+  "Republic of Venice": [
+    [
+      "Venice",
+      697,
+      1797
+    ]
+  ],
+  "Indus Valley Civilisation": [
+    [
+      "Indus valley civilization",
+      -2600,
+      -1900
+    ]
+  ],
+  "Kushan Empire": [
+    [
+      "Kushan Empire",
+      30,
+      375
+    ]
+  ],
+  "Chola Dynasty": [
+    [
+      "Chola state",
+      848,
+      1279
+    ],
+    [
+      "Chola",
+      848,
+      1279
+    ],
+    [
+      "Cholas",
+      848,
+      1279
+    ]
+  ],
+  "Delhi Sultanate": [
+    [
+      "Sultanate of Delhi",
+      1206,
+      1526
+    ]
+  ],
+  "Maratha Empire": [
+    [
+      "Maratha",
+      1674,
+      1818
+    ],
+    [
+      "Maratha Confederacy",
+      1674,
+      1818
+    ]
+  ],
+  "Ghana Empire": [
+    [
+      "Empire of Ghana",
+      700,
+      1240
+    ]
+  ],
+  "Kanem-Bornu Empire": [
+    [
+      "Kanem",
+      700,
+      1250
+    ],
+    [
+      "Bornu-Kanem",
+      1250,
+      1846
+    ],
+    [
+      "Kanem-Bornu",
+      1846,
+      1900
+    ]
+  ],
+  "Kingdom of Kongo": [
+    [
+      "Congo",
+      1390,
+      1914
+    ]
+  ],
+  "Mutapa Empire": [
+    [
+      "Mwenemutapa",
+      1430,
+      1760
+    ],
+    [
+      "Great Zimbabwe",
+      1100,
+      1450
+    ]
+  ],
+  "Ethiopian Empire": [
+    [
+      "Ethiopia",
+      1270,
+      1974
+    ],
+    [
+      "Abyssinia",
+      1270,
+      1936
+    ]
+  ],
+  "Sokoto Caliphate": [
+    [
+      "Sokoto Caliphate",
+      1804,
+      1903
+    ]
+  ],
+  "Kingdom of Benin": [
+    [
+      "Benin",
+      1180,
+      1897
+    ]
+  ],
+  "Kilwa Sultanate": [
+    [
+      "Islamic city-states",
+      900,
+      1513
+    ]
+  ],
+  "Asante Empire": [
+    [
+      "Asante",
+      1701,
+      1902
+    ]
+  ],
+  "Goryeo": [
+    [
+      "Goryeo",
+      918,
+      1392
+    ]
+  ],
+  "Silla": [
+    [
+      "Silla",
+      -57,
+      935
+    ]
+  ],
+  "Koguryo": [
+    [
+      "Koguryo",
+      -37,
+      668
+    ]
+  ],
+  "Balhae": [
+    [
+      "Balhae",
+      698,
+      926
+    ]
+  ],
+  "Yamato": [
+    [
+      "Yamato",
+      250,
+      710
+    ]
+  ],
+  "Tokugawa Shogunate": [
+    [
+      "Tokugawa Shogunate",
+      1603,
+      1868
+    ],
+    [
+      "Tokugawa shogunate",
+      1603,
+      1868
+    ]
+  ],
+  "Liao Dynasty": [
+    [
+      "Liao",
+      907,
+      1125
+    ]
+  ],
+  "Jin Empire": [
+    [
+      "Jin Empire",
+      1115,
+      1234
+    ]
+  ],
+  "Xixia": [
+    [
+      "Xixia",
+      1038,
+      1227
+    ]
+  ],
+  "Pagan Empire": [
+    [
+      "Pagan",
+      849,
+      1297
+    ],
+    [
+      "Kingdom of Pagan",
+      849,
+      1297
+    ],
+    [
+      "Bagan",
+      849,
+      1297
+    ]
+  ],
+  "Ayutthaya": [
+    [
+      "Ayutthaya",
+      1351,
+      1767
+    ]
+  ],
+  "Champa": [
+    [
+      "Champa",
+      192,
+      1832
+    ],
+    [
+      "Champa City States",
+      192,
+      1832
+    ]
+  ],
+  "Dai Viet": [
+    [
+      "\u0110\u1ea1i Vi\u1ec7t",
+      968,
+      1804
+    ]
+  ],
+  "Majapahit": [
+    [
+      "East Java",
+      1293,
+      1527
+    ]
+  ],
+  "Ilkhanate": [
+    [
+      "Ilkhanate",
+      1256,
+      1335
+    ]
+  ],
+  "Safavid Empire": [
+    [
+      "Safavid Empire",
+      1501,
+      1736
+    ]
+  ],
+  "Fatimid Caliphate": [
+    [
+      "Fatimid Caliphate",
+      909,
+      1171
+    ]
+  ],
+  "Seljuk Empire": [
+    [
+      "Seljuk Empire",
+      1037,
+      1194
+    ],
+    [
+      "Seljuk Caliphate",
+      1037,
+      1194
+    ]
+  ],
+  "Chagatai Khanate": [
+    [
+      "Chagatai Khanate",
+      1226,
+      1347
+    ]
+  ],
+  "Ghaznavid Emirate": [
+    [
+      "Ghaznavid Emirate",
+      977,
+      1186
+    ]
+  ],
+  "Almohad Caliphate": [
+    [
+      "Almohad Caliphate",
+      1121,
+      1269
+    ]
+  ],
+  "Almoravid Dynasty": [
+    [
+      "Almoravid dynasty",
+      1040,
+      1147
+    ]
+  ],
+  "Ptolemaic Kingdom": [
+    [
+      "Ptolemaic Kingdom",
+      -305,
+      -30
+    ]
+  ],
+  "Visigothic Kingdom": [
+    [
+      "Visigothic Kingdom",
+      418,
+      721
+    ],
+    [
+      "Visigoths",
+      418,
+      721
+    ]
+  ],
+  "Angevin Empire": [
+    [
+      "Angevin Empire",
+      1154,
+      1214
+    ]
+  ],
+  "Great Moravia": [
+    [
+      "Great Moravia",
+      830,
+      907
+    ]
+  ],
+  "Polish-Lithuanian Commonwealth": [
+    [
+      "Polish\u2013Lithuanian Commonwealth",
+      1569,
+      1795
+    ],
+    [
+      "Poland-Lithuania",
+      1569,
+      1795
+    ]
+  ],
+  "Teutonic Knights": [
+    [
+      "Teutonic Knights",
+      1230,
+      1525
+    ]
+  ],
+  "Kalmar Union": [
+    [
+      "Kalmar Union",
+      1397,
+      1523
+    ]
+  ],
+  "Dahomey": [
+    [
+      "Dahomey",
+      1600,
+      1904
+    ]
+  ],
+  "Buganda": [
+    [
+      "Buganda",
+      1300,
+      1966
+    ]
+  ],
+  "Funj Sultanate": [
+    [
+      "Funj",
+      1504,
+      1821
+    ]
+  ],
+  "Adal Sultanate": [
+    [
+      "Adal",
+      1415,
+      1577
+    ]
+  ],
+  "Wadai Empire": [
+    [
+      "Wadai Empire",
+      1501,
+      1912
+    ],
+    [
+      "Wadai",
+      1501,
+      1912
+    ]
+  ],
+  "Chimu Empire": [
+    [
+      "Chim\u00fa Empire",
+      900,
+      1470
+    ],
+    [
+      "Chim\u00fa",
+      900,
+      1470
+    ]
+  ],
+  "Toltec Empire": [
+    [
+      "Toltec Empire",
+      800,
+      1150
+    ]
+  ],
+  "Olmec": [
+    [
+      "Olmec",
+      -1500,
+      -400
+    ]
+  ],
+  "Mixtec Empire": [
+    [
+      "Mixtec Empire",
+      900,
+      1521
+    ],
+    [
+      "Mixtecs",
+      900,
+      1521
+    ]
+  ]
+}

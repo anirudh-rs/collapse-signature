@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv
+env/
+venv/
+collapse-env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data — raw large files excluded, processed kept
+data/geospatial/historical-basemaps/
+data/raw/civilisations_master.csv
+
+# GIFs are large — exclude from git, generate locally
+# Comment this out if you want GIFs in the repo
+# data/geospatial/gifs/
+
+# Streamlit cache
+.streamlit/cache/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Outputs from notebooks
+data/geospatial/mapping_summary.csv
