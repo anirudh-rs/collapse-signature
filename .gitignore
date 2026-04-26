@@ -19,7 +19,6 @@ collapse-env/
 *.ipynb_checkpoints
 
 # Data — raw large files excluded, processed kept
-data/geospatial/historical-basemaps/
 data/raw/civilisations_master.csv
 
 # GIFs are large — exclude from git, generate locally
@@ -43,3 +42,9 @@ desktop.ini
 
 # Outputs from notebooks
 data/geospatial/mapping_summary.csv
+
+# Generated outputs — reproducible from notebooks
+data/processed/*.html
+data/processed/*.png
+data/geospatial/gifs/*.mp4
+data/geospatial/civilisation_geojson_mapping.csv
