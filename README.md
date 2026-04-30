@@ -13,8 +13,6 @@ short_description: 4999 years of civilisational collapse — analysed and mapped
 
 # The Collapse Signature Project
 
-![History in Motion](data/geospatial/gifs/collapse_medieval.gif)
-
 > *4,999 years of rise and ruin — analysed, mapped, and questioned.*
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)](https://python.org)
